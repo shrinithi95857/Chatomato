@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749806449924",
+    "project_id": "chatamato-backend",
+    "storage_bucket": "chatamato-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749806449924:android:03d946867d9e568b7b4c51",
+        "android_client_info": {
+          "package_name": "com.example.chatamato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyrhk_9NoKHZ6eU4Cty8oaUUWfiOx6XcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
